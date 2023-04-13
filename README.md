@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Movie Database
+<img src="https://raw.githubusercontent.com/ktugbaa7/movies-app/master/moviedatabase.png" width="auto">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
