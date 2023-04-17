@@ -1,4 +1,5 @@
 # Movie Database
+React, React Router, IMDBAPI, SCSS
 <img src="https://raw.githubusercontent.com/ktugbaa7/movies-app/master/moviedatabase.png" width="auto">
 
 
